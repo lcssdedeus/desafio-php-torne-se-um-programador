@@ -1,2 +1,2 @@
 <?php
-   echo("Olá pessoal");
+   echo("Olá pessoal\n");
