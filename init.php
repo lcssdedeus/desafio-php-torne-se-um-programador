@@ -1,2 +1,6 @@
 <?php
-   echo("Olá pessoal\n");
+   
+   echo "Digite algo: ";
+   $entrada = fgets(STDIN);
+
+   echo "Você digitou: " . $entrada;
