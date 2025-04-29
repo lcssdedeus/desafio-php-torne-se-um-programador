@@ -91,7 +91,7 @@ Neste exemplo, a função `adicionar` espera dois inteiros como argumentos e tam
 
 Então, enquanto o PHP é historicamente uma linguagem fracamente tipada, ele evoluiu para oferecer opções mais fortes de tipagem onde necessário.
 
-Faça um programa,que irá utilizar, dados de entrada e saida + variáveis para calcular alguma operação metemática, exemplo:
+Faça um programa,que irá utilizar, dados de entrada e saida + variáveis para calcular alguma operação matemática, exemplo:
 
 o usuario digita o seu nome.
 digita o nome de um produto depois o valor dele
